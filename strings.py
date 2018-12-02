@@ -1,4 +1,4 @@
-line1 = "star"
+line1 = "eieieiieieei"
 line2 = "learner"
 
 if type(line1) is not str and type(line2) is not str :
